@@ -15,7 +15,7 @@ This project is a fully responsive and accessible **quiz form webpage** built us
 
 ## 🔗 Live Demo
 
-👉 (https://prakash-123705.github.io/Quiz-form/)
+👉 (https://quiz-form-kappa.vercel.app/)
 
 ## 🖼️ Output Screenshot
 
